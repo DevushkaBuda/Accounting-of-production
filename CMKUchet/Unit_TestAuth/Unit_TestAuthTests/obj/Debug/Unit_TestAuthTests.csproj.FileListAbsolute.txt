@@ -1,0 +1,36 @@
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Unit_TestAuthTests.dll
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Unit_TestAuthTests.pdb
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Unit_TestAuth.dll
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\EntityFramework.dll
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Unit_TestAuth.pdb
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Unit_TestAuth.dll.config
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\EntityFramework.xml
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\obj\Debug\Unit_TestAuthTests.csproj.AssemblyReference.cache
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\obj\Debug\Unit_TestAuthTests.csproj.CoreCompileInputs.cache
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\obj\Debug\Unit_TestAuthTests.csproj.CopyComplete
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\obj\Debug\Unit_TestAuthTests.dll
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\obj\Debug\Unit_TestAuthTests.pdb
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Unit_TestAuthTests.dll.config
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Unit_TestAuthTests.dll.config
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Unit_TestAuthTests.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Unit_TestAuthTests.pdb
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\EntityFramework.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Unit_TestAuth.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Unit_TestAuth.pdb
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\Unit_TestAuth.dll.config
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\EntityFramework.xml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\obj\Debug\Unit_TestAuthTests.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\obj\Debug\Unit_TestAuthTests.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\obj\Debug\Unit_TestAuthTests.csproj.CopyComplete
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\obj\Debug\Unit_TestAuthTests.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuthTests\obj\Debug\Unit_TestAuthTests.pdb

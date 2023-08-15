@@ -1,0 +1,26 @@
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuth\bin\Debug\Unit_TestAuth.dll.config
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuth\bin\Debug\Unit_TestAuth.dll
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuth\bin\Debug\Unit_TestAuth.pdb
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuth\bin\Debug\EntityFramework.dll
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuth\bin\Debug\EntityFramework.xml
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuth\obj\Debug\Unit_TestAuth.csproj.AssemblyReference.cache
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuth\obj\Debug\Unit_TestAuth.csproj.CoreCompileInputs.cache
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuth\obj\Debug\Unit_TestAuth.csproj.CopyComplete
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuth\obj\Debug\Unit_TestAuth.dll
+C:\Users\я\source\repos\Unit_TestAuth\Unit_TestAuth\obj\Debug\Unit_TestAuth.pdb
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuth\obj\Debug\Unit_TestAuth.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuth\obj\Debug\Unit_TestAuth.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuth\obj\Debug\Unit_TestAuth.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuth\obj\Debug\Unit_TestAuth.pdb
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuth\bin\Debug\Unit_TestAuth.dll.config
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuth\bin\Debug\Unit_TestAuth.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuth\bin\Debug\Unit_TestAuth.pdb
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuth\bin\Debug\EntityFramework.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuth\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuth\bin\Debug\EntityFramework.xml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuth\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuth\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\Unit_TestAuth\Unit_TestAuth\obj\Debug\Unit_TestAuth.csproj.CopyComplete

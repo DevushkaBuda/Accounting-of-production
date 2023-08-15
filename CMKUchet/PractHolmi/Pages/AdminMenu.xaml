@@ -1,0 +1,47 @@
+﻿<Window x:Class="otdel_kadrov.AdminMenu"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:otdel_kadrov"
+        mc:Ignorable="d"
+        Title="AdminMenu" KeyDown="Window_KeyDown" Height="450" Width="800" MinHeight="450" MinWidth="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TabControl materialDesign:ColorZoneAssist.Mode="PrimaryDark"
+    Style="{StaticResource MaterialDesignFilledTabControl}">
+            <TabItem Header="Работники">
+                <DataGrid CanUserAddRows="False" IsReadOnly="True" AutoGenerateColumns="False" x:Name="dgWorker">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Фамилия и имя" Binding="{Binding FullName}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Должность" Binding="{Binding Post.Name}"></DataGridTextColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="Ученики">
+                <DataGrid CanUserAddRows="False" IsReadOnly="True" AutoGenerateColumns="False" x:Name="dgStudents">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Фамилия и имя" Binding="{Binding FullName}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Класс" Binding="{Binding Class.Name}"></DataGridTextColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="Заявки">
+                <DataGrid CanUserAddRows="False" AutoGenerateColumns="False" x:Name="dgNewWorkers">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn IsReadOnly="True" Header="Фамилия и имя" Binding="{Binding People.FullName}"></DataGridTextColumn>
+                        <DataGridTextColumn IsReadOnly="True" Header="Должность" Binding="{Binding Post.Name}"></DataGridTextColumn>
+                        <DataGridTextColumn IsReadOnly="True" Header="Номер телефона" Binding="{Binding People.Phone}"></DataGridTextColumn>
+                        <DataGridTemplateColumn Header="Ответ">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <ComboBox Tag="{Binding ID}" DisplayMemberPath="Name" SelectedValue="{Binding Answer_id}" SelectedValuePath="ID" SelectionChanged="ComboBox_SelectionChanged" Loaded="ComboBox_Loaded"></ComboBox>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

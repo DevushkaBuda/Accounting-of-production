@@ -1,0 +1,316 @@
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.csproj.SuggestedBindingRedirects.cache
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\AddClientPage.g.cs
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\AddEditPage.g.cs
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\AddOrderPage.g.cs
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\CodePage.g.cs
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\HistoryAuth.g.cs
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\ManagerPage.g.cs
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\SellerPage.g.cs
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\App.g.cs
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\ProkatHolm_Content.g.cs
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\ProkatHolm_MarkupCompile.cache
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\ProkatHolm_MarkupCompile.lref
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\bin\Debug\ProkatHolm.exe.config
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\bin\Debug\ProkatHolm.exe
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\bin\Debug\ProkatHolm.pdb
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\bin\Debug\EntityFramework.dll
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\bin\Debug\EntityFramework.xml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\App.baml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\AddClientPage.baml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\AddEditPage.baml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\AddOrderPage.baml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\AdminPage.baml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\CodePage.baml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\HistoryAuth.baml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\LoginPage.baml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\ManagerPage.baml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\OrderPage.baml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Pages\SellerPage.baml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\Windows\MainWindow.baml
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.g.resources
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.Properties.Resources.resources
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.csproj.GenerateResource.cache
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.csproj.CopyComplete
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.exe
+C:\Users\я\Desktop\Новая папка\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.pdb
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\bin\Debug\ProkatHolm.exe.config
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\bin\Debug\ProkatHolm.exe
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\bin\Debug\ProkatHolm.pdb
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\bin\Debug\EntityFramework.dll
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\bin\Debug\EntityFramework.xml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.csproj.SuggestedBindingRedirects.cache
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\AddClientPage.g.cs
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\AddEditPage.g.cs
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\AddOrderPage.g.cs
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\CodePage.g.cs
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\HistoryAuth.g.cs
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\ManagerPage.g.cs
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\SellerPage.g.cs
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\App.g.cs
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\ProkatHolm_Content.g.cs
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\ProkatHolm_MarkupCompile.cache
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\ProkatHolm_MarkupCompile.lref
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\App.baml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\AddClientPage.baml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\AddEditPage.baml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\AddOrderPage.baml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\AdminPage.baml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\CodePage.baml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\HistoryAuth.baml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\LoginPage.baml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\ManagerPage.baml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\OrderPage.baml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Pages\SellerPage.baml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\Windows\MainWindow.baml
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.g.resources
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.Properties.Resources.resources
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.csproj.GenerateResource.cache
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.csproj.CopyComplete
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.exe
+C:\Users\я\Desktop\Практика 4 курс\УП ПМ01\PractHolmi\PractHolmi\obj\Debug\ProkatHolm.pdb
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.SuggestedBindingRedirects.cache
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\AddClientPage.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\AddOrderPage.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\CodePage.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\HistoryAuth.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\ManagerPage.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\App.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\ProkatHolm_Content.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\ProkatHolm_MarkupCompile.cache
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\ProkatHolm_MarkupCompile.lref
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.exe
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.pdb
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\bin\Debug\ProkatHolm.exe.config
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\bin\Debug\ProkatHolm.exe
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\bin\Debug\ProkatHolm.pdb
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\bin\Debug\EntityFramework.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\bin\Debug\EntityFramework.xml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\App.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\AddClientPage.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\AddOrderPage.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\AdminPage.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\CodePage.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\HistoryAuth.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\LoginPage.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\ManagerPage.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\OrderPage.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Windows\MainWindow.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.g.resources
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.Properties.Resources.resources
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.GenerateResource.cache
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.CopyComplete
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\IndustryPage.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\ProcessPage.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\IndustryPage.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\ProcessPage.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\NomenclaturePage.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\NomenclaturePage.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\AddNomenclaturePage.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\AddNomenclaturePage.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\AddProcessPage.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\AddProcessPage.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINOrderPage.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINOrderPage.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINNomenclaturePage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\bin\Debug\ProkatHolm.exe.config
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\bin\Debug\ProkatHolm.exe
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\bin\Debug\ProkatHolm.pdb
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddClientPage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddProcessPage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddNomenclaturePage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddOrderPage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\IndustryPage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\CodePage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\HistoryAuth.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ManagerPage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINNomenclaturePage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\NomenclaturePage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINOrderPage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ProcessPage.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm_Content.g.cs
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm_MarkupCompile.cache
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm_MarkupCompile.lref
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\App.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddClientPage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddProcessPage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddNomenclaturePage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddOrderPage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\IndustryPage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AdminPage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\CodePage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\HistoryAuth.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\LoginPage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ManagerPage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINNomenclaturePage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\NomenclaturePage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINOrderPage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\OrderPage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ProcessPage.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\Windows\MainWindow.baml
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.g.resources
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.Properties.Resources.resources
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.CopyComplete
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.exe
+C:\Users\Admin\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.pdb
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.SuggestedBindingRedirects.cache
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\AddClientPage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\AddProcessPage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\AddNomenclaturePage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\AddOrderPage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\IndustryPage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\CodePage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\HistoryAuth.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\ManagerPage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINNomenclaturePage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\NomenclaturePage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINOrderPage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\ProcessPage.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\App.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\ProkatHolm_Content.g.cs
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\ProkatHolm_MarkupCompile.cache
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\ProkatHolm_MarkupCompile.lref
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.exe
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.pdb
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\bin\Debug\ProkatHolm.exe.config
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\bin\Debug\ProkatHolm.exe
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\bin\Debug\ProkatHolm.pdb
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\bin\Debug\EntityFramework.dll
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\bin\Debug\EntityFramework.xml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\App.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\AddClientPage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\AddProcessPage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\AddNomenclaturePage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\AddOrderPage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\IndustryPage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\AdminPage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\CodePage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\HistoryAuth.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\LoginPage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\ManagerPage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINNomenclaturePage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\NomenclaturePage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINOrderPage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\OrderPage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\ProcessPage.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Windows\MainWindow.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.g.resources
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.Properties.Resources.resources
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.GenerateResource.cache
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.CopyComplete
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\AboutProgram.baml
+C:\Users\я\Desktop\Новая папка\CMKUchet\PractHolmi\obj\Debug\Pages\AboutProgram.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\bin\Debug\ProkatHolm.exe.config
+C:\Users\я\Desktop\CMKUchet\PractHolmi\bin\Debug\ProkatHolm.exe
+C:\Users\я\Desktop\CMKUchet\PractHolmi\bin\Debug\ProkatHolm.pdb
+C:\Users\я\Desktop\CMKUchet\PractHolmi\bin\Debug\EntityFramework.dll
+C:\Users\я\Desktop\CMKUchet\PractHolmi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\я\Desktop\CMKUchet\PractHolmi\bin\Debug\EntityFramework.xml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.AssemblyReference.cache
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.SuggestedBindingRedirects.cache
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AboutProgram.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AboutProgram.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddClientPage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddProcessPage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddNomenclaturePage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddOrderPage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\IndustryPage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\CodePage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\HistoryAuth.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ManagerPage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINNomenclaturePage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\NomenclaturePage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINOrderPage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ProcessPage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\App.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm_Content.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm_MarkupCompile.cache
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm_MarkupCompile.lref
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\App.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddClientPage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddProcessPage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddNomenclaturePage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AddOrderPage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\IndustryPage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\AdminPage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\CodePage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\HistoryAuth.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\LoginPage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ManagerPage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINNomenclaturePage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\NomenclaturePage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINOrderPage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\OrderPage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ProcessPage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Windows\MainWindow.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.g.resources
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.Properties.Resources.resources
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.GenerateResource.cache
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.CoreCompileInputs.cache
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.csproj.CopyComplete
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.exe
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\ProkatHolm.pdb
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\AboutProgram.baml
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\AboutProgram.g.cs
+C:\Users\я\Desktop\Курсовая работа\CMKUchet\PractHolmi\obj\Debug\Pages\ADMINNomenclaturePage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ClientPage.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\Processing_Charts.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\ClientPage.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\Processing_Charts.baml
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\Skald.g.cs
+C:\Users\я\Desktop\CMKUchet\PractHolmi\obj\Debug\Pages\Skald.baml

@@ -1,0 +1,93 @@
+﻿<Page x:Class="ProkatHolm.Pages.AddOrderPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ProkatHolm.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddOrderPage" FontFamily="Zekton Regular">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="{DynamicResource ColorSecondary}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Name="BtnBack" Grid.Column="0" Height="50" Width="50" Style="{DynamicResource TransparentBtn}" BorderThickness="0" Click="BtnBack_Click">
+                <Image Source="/ProkatHolm;component/Resources/back.png" Height="30"/>
+            </Button>
+            <StackPanel Grid.Column="1" Orientation="Horizontal">
+                <Image Source="/Resources/logo.png" Margin="8,0,16,0" />
+                <TextBlock Text="Оформление заказа" FontSize="24" VerticalAlignment="Center" FontStyle="Italic"/>
+            </StackPanel>
+        </Grid>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal " HorizontalAlignment="Center">
+            <StackPanel Grid.Column="0" Orientation="Vertical" VerticalAlignment="Center">
+                <StackPanel Orientation="Horizontal" Height="28" Margin="0,0,0,10" HorizontalAlignment="Center">
+                    <TextBlock Text="Код" Width="125" Height="20"/>
+                    <TextBox Text="{Binding id}" Width="300"/>
+
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="28" Margin="0,0,0,10" HorizontalAlignment="Center">
+                    <TextBlock Text="Наименование" Width="125" Height="20"/>
+                    <ComboBox Name="NameCB" SelectedValue="{Binding name}" SelectedValuePath="name"   DisplayMemberPath="name" SelectedItem="{Binding Nomenclature}" Width="300"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="28" Margin="0,0,0,10" HorizontalAlignment="Center">
+                    <TextBlock Text="Дата начала" Width="125"/>
+                    <TextBox Text="{Binding date_order}" Width="300"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="28" Margin="0,0,0,10" HorizontalAlignment="Center">
+                    <TextBlock Text="Клиент" Width="125" Height="20"/>
+                    <ComboBox Name="ClientCB" SelectedValue="{Binding Fullname}" SelectedValuePath="Fullname"   DisplayMemberPath="Fullname" SelectedItem="{Binding Client}" Width="300"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="28" Margin="0,0,0,10" HorizontalAlignment="Center">
+                    <TextBlock Text="Статус" Width="125" Height="20"/>
+                    <ComboBox Name="StatusCB" SelectedValue="{Binding Status.name}" SelectedValuePath="name"  DisplayMemberPath="name"  Width="300"  SelectedItem="{Binding Status}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="28" Margin="0,0,0,10" HorizontalAlignment="Center">
+                    <TextBlock Text="Вид продукции" Width="125" Height="20"/>
+                    <ComboBox Name="VidprodCB" SelectedValue="{Binding product_type}" SelectedValuePath="product_type"  DisplayMemberPath="product_type" SelectedItem="{Binding Nomenclature}" Width="300"/>
+
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="28" Margin="0,0,0,10" HorizontalAlignment="Center">
+                    <TextBlock Text="Вид производства" Width="125" Height="20"/>
+
+                    <ComboBox Name="VidproizvCB" SelectedValue="{Binding Process_time}" SelectedValuePath="Process_type"  DisplayMemberPath="Process_type" SelectedItem="{Binding Nomenclature}" Width="300"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="28" Margin="0,0,0,10" HorizontalAlignment="Center">
+                    <TextBlock Text="Цена" Width="125" Height="20"/>
+                    <ComboBox Name="CentCB" SelectedValue="{Binding cent}" SelectedValuePath="cent"  DisplayMemberPath="cent" SelectedItem="{Binding Order}" Width="300"/>
+
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+
+
+        <Grid Grid.Row="2" Background="{DynamicResource Button.Static.Border}">
+            <Button Name="BtnAddC" Grid.Column="0"  Content="Добавить клиента" Click="BtnAdd_Click" Height="39" Width="39" Margin="751,0,10,1" Style="{DynamicResource BtnAddC}" >
+                <Button.ContentTemplate>
+                    <DataTemplate>
+                        <Image Source="/Pages/5693917.png" Margin="1"  />
+                    </DataTemplate>
+                </Button.ContentTemplate>
+            </Button>
+            <Button Name="BtnSave" Grid.Column="0" Content="Сохранить"  Height="39" Width="39"  Click="BtnSave_Click"  Style="{DynamicResource BtnAddC}" Margin="690,0,71,1">
+                <Button.ContentTemplate>
+                    <DataTemplate>
+                        <Image Source="/Pages/1544697.png" Margin="1"  />
+
+                    </DataTemplate>
+                </Button.ContentTemplate>
+            </Button>
+        </Grid>
+    </Grid>
+</Page>
